@@ -1,0 +1,6 @@
+{
+  "name": "sst-staticsite-edge-test",
+  "stage": "dev",
+  "region": "us-west-2",
+  "lint": true
+}
